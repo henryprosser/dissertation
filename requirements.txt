@@ -1,0 +1,12 @@
+filehash
+pathlib
+python-dotenv
+requests
+schedule
+solid-file
+rdflib
+prettytable
+argparse
+tornado
+webthing
+

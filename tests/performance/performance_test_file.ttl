@@ -1,0 +1,29 @@
+@prefix ns1: <http://www.w3.org/ns/ssn/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<> ns1:resultTime "2022-08-01T11:37:09.676304"^^xsd:dateTime .
+
+[] ns1:Sensor "pm10" ;
+    ns1:hasSimpleResult "0.299127410545256" .
+
+[] ns1:Sensor "pm25" ;
+    ns1:hasSimpleResult "4.74350932119476" .
+
+[] ns1:Sensor "o3" ;
+    ns1:hasSimpleResult "0.42341964148483635" .
+
+[] ns1:Sensor "humidity" ;
+    ns1:hasSimpleResult "4.890656079302323" .
+
+[] ns1:Sensor "temperature" ;
+    ns1:hasSimpleResult "15.286840547390673" .
+
+[] ns1:Sensor "longitude" ;
+    ns1:hasSimpleResult "-2.328047487717645" .
+
+[] ns1:Sensor "no2" ;
+    ns1:hasSimpleResult "4.142963052387801" .
+
+[] ns1:Sensor "latitude" ;
+    ns1:hasSimpleResult "51.37981428316116" .
+
